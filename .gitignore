@@ -7,3 +7,4 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 *.tsbuildinfo
+YOLOv8_Traffic_Density_Estimation\venv
