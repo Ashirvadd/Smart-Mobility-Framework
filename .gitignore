@@ -1,1 +1,9 @@
 node_modules/
+.next/
+.env
+*.log
+.DS_Store
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.tsbuildinfo
