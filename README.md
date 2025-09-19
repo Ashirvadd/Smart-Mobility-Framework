@@ -1,5 +1,6 @@
 # Smart Mobility Framework
- Smart Mobility Framework for Optimized Urban Transit and Commuter Experience
+ Smart Mobility Framework for Optimised Urban Transit and Commuter Experience
+🚀 Demo Video – Watch how Smart Mobility Framework [https://drive.google.com/file/d/1BI3j021rgqVV444jloeFrWzIMSpMsHoI/view?usp=sharing] works in real time!
 <img width="1891" height="898" alt="Image" src="https://github.com/user-attachments/assets/13a27ad1-dc4b-40f6-9a8d-500d5924375b" />
 <img width="1901" height="913" alt="Image" src="https://github.com/user-attachments/assets/e3b5d1a2-8b9e-49a0-9663-b88e5e89f906" />
 <img width="1890" height="916" alt="Image" src="https://github.com/user-attachments/assets/bc335744-d5e5-42e6-b91c-8cd6d45cb771" />
